@@ -36,5 +36,5 @@ react-native run-android
 To get the filtered app log use:
 
 ```
-	adb logcat *:S ReactNative:V ReactNativeJS:V
+adb logcat *:S ReactNative:V ReactNativeJS:V
 ```
