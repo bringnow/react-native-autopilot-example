@@ -2,6 +2,8 @@
 
 Basic runnable example of [react-native-autopilot](https://github.com/bringnow/react-native-autopilot).
 
+It contains two scenes ("Scene A" and "Scene B") and allows you to navigate between them.
+
 ## Getting started
 
 First, install all required dependencies:
